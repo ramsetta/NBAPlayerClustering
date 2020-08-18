@@ -11,6 +11,9 @@ The goal of this project is to compare NBA players through the use of unsupervis
 
 ![image](https://user-images.githubusercontent.com/66981740/90479698-4ef7fc80-e0ec-11ea-8c10-127e4958bcf1.png)
 
+## Project Description
+As a basketball fan my entire life, I have engaged in many conversations about comparisons of NBA players. This analysis allows to do exactly this through statistical analyses. If you have ever wondered what player is most similar to LeBron James, or which statistical outputs are most important when grouping players, then this project is for you. There are several eye-opening player comparisons that i would have never expected and kept me entertained throughout this project with the various statistical clusters created.
+
 ## Data Overview
 The data sets used are taken directly from nba.com and basketball-reference.com. The traditional and advanced statistics as well as the defensive statistics are taken directly from nba.com through manual export and the scoring statistics data set was taken from basketball=reference.com through an export of a csv file.
 
