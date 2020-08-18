@@ -2,7 +2,7 @@
 
 * Name - Tony Ramsett
 * Program - M.S. Data Science - Regis University
-* Course - MSDS692 Data Practicum 2
+* Course - MSDS696 Data Practicum 2
 * Programming Language - R
 * Other Programs Used - MS PowerPoint, MS Excel, MS Word
 
